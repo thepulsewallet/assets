@@ -1,0 +1,13 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="24/chile" clip-path="url(#clip0_16071_3070)">
+<path id="Vector" d="M0.75 12C0.75 18.225 5.775 23.25 12 23.25C18.225 23.25 23.25 18.225 23.25 12H0.75Z" fill="#ED4C5C"/>
+<path id="Vector_2" d="M12 0.75C18.225 0.75 23.25 5.775 23.25 12H12V0.75Z" fill="#F9F9F9"/>
+<path id="Vector_3" d="M12 0.75C5.775 0.75 0.75 5.775 0.75 12H12V0.75Z" fill="#2A5F9E"/>
+<path id="Vector_4" d="M7.5 8.1375L9.3375 9.375L8.6625 7.3875L10.5 6.075H8.2125L7.5 4.125L6.825 6.075H4.5L6.3375 7.3875L5.6625 9.375L7.5 8.1375Z" fill="#F9F9F9"/>
+</g>
+<defs>
+<clipPath id="clip0_16071_3070">
+<rect width="24" height="24" fill="white"/>
+</clipPath>
+</defs>
+</svg>
